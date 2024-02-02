@@ -62,7 +62,7 @@
 
 <h3>Connect with Me</h3>
 <p>
-<a href="[www.linkedin.com/in/yaoyiw20010527](https://www.linkedin.com/in/yaoyiw20010527/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="yaoyiw20010527" /></a>
+<a href="https://www.linkedin.com/in/yaoyiw20010527/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="yaoyiw20010527" /></a>
 
 <h3>#Coding#</h3>
 
