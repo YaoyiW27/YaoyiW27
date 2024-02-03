@@ -11,7 +11,7 @@
 
 ✈️ Travelling  🏃‍♀️ Running
 
-🎬 Movie  🎹 Music
+🎬 Movie  🎹 Music 🎭 Musical
 
 🖼️ Galleries  🏛️ Museums
 
