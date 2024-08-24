@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋🏻, I'm Yaoyi (Betty) 🥥</h1> 
 <h3 align="center">A passionate programmer studying in NEU 💻</h3>
 
+
 <p aligh="center">
 
 📚 Background in English Literature and Anthropology.
@@ -76,6 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaoyiW27&show_icons=true&locale=en&layout=compact&hide=scss,ejs" alt="YaoyiW27" style="display:inline; width:300px" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YaoyiW27&style=flat" alt="YaoyiW27" /> </p>
 
 </div>
 
