@@ -1,20 +1,16 @@
 ![Yaoyi GIF](yaoyi.gif)
 <div align="center">
-<h1 align="center">Hi 👋🏻, I'm Yaoyi (Betty) 🥥</h1> 
-<h3 align="center">A passionate programmer studying in NEU 💻</h3>
+<h1 align="center">Hi 👋🏻, I'm Yaoyi 🥥</h1> 
+<h3 align="center">A passionate programmer studying in NEU 👩🏻‍💻</h3>
 
 
 <p aligh="center">
 
-📚 Background in English Literature and Anthropology.
-  
 🌱 Lifelong learner with a passion for acquiring new tech skills.
 
-✈️ Travelling  ⛰️ Hiking
+✈️ Travelling  ⛰️ Hiking  🎬 Movie  
 
-🎬 Movie  🎹 Music 🎭 Musical
-
-🖼️ Galleries  🏛️ Museums
+🎹 Music  🖼️ Galleries  🏛️ Museums
 
 📫 How to reach me **rmwyyy@gmail.com**
 
