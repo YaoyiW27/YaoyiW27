@@ -82,7 +82,7 @@
 <h3>#Coding#</h3>
 
 <p style="display:inline;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaoyiW27&show_icons=true&locale=en&layout=compact&hide=scss,ejs" alt="YaoyiW27" style="display:inline; width:300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaoyiW27&layout=compact" alt="YaoyiW27" style="display:inline; width:300px" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YaoyiW27&style=flat" alt="YaoyiW27" /> </p>
