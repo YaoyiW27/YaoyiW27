@@ -2,7 +2,6 @@
 
 > still figuring it out, mostly on purpose
 
-DevOps engineer at BC Hydro, working on observability and security tooling for Kubernetes systems.  
 Finishing my MSCS at Northeastern this year.
 
 These days I:
